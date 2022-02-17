@@ -15,7 +15,7 @@ Eu sou Elton!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
  
  Transição de carreira! 
  Após vários anos atuando na área comercial e apaixonado pela a área tech, sempre consumindo contéudos e cursos para tech.   
- Recentemente resolvi retonar e me lançar nesse novo desafio de construir uma carreira devtech! 
+ Recentemente resolvi retornar e me lançar nesse novo desafio de construir uma carreira devtech! 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
