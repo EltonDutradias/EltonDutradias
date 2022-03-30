@@ -8,12 +8,7 @@ Eu sou Elton!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
   
 </a>
    
- Atuei profissionalmente na área tech até inicio de 2015, como Analista de Tecnologia.   
- Entre 2015 e 2021 atuei como consultor comercial em multinacional. 
  
- Transição de carreira! 
- Após vários anos atuando na área comercial e apaixonado pela a área tech, sempre consumindo contéudos.   
- Recentemente resolvi retornar e me lançar nesse novo desafio de construir uma carreira devtech! 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
